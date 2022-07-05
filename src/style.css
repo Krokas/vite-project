@@ -1,0 +1,30 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.byte {
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 0 auto 1rem;
+}
+
+.byte > input {
+  width: 20px;
+  height: 20px;
+}
+
+.decimal {
+  font-weight: 500;
+  font-family: "Helvetica Neue", Helvetica, Arial;
+  font-size: 1.5rem;
+}
