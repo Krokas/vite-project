@@ -1,6 +1,6 @@
 # Vite test
 
-This is a project to test how [Vite](https://vitejs.dev/) performs. Used vanilla typescript to create a simple Binary to decimal converter for a single byte.
+This is a project to test how [Vite](https://vitejs.dev/) performs. Used vanilla typescript to create a simple binary to decimal visualizer for a single byte.
 
 ## Development
 
